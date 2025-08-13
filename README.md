@@ -15,7 +15,7 @@ Keep visuals simple, easy to understand, and focused on decision-making.
 
 ## Derive Insights
 Go beyond numbers — focus on “So what?” and “What’s next?” to give clear takeaways.
-![Analyze & Visualize / Derive Insights](https://github.com/Junaid30121997/Turning-data-into-insights/blob/main/1.jpg)
+![Analyze & Visualize / Derive Insights](https://github.com/Junaid30121997/Turning-data-into-insights/blob/main/2.jpg)
 ## Implement & Iterate
 Apply the insights → measure the impact → improve in the next cycle.
 
