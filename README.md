@@ -1,6 +1,7 @@
 ## Turning Data into Actionable Insights — My Approach
 In today’s data-driven world, I believe the real value of data lies not just in collecting it—but in turning it into clear, actionable insights that drive smart decisions.
-
+![Step-by-Step Approach](
+![Analyze & Visualize]
 ## Step-by-Step Approach
 Define Clear Objectives
 First, I make the problem crystal clear: “What exactly do we want to improve or solve with this data?”
