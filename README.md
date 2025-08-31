@@ -59,4 +59,7 @@ LIMIT 5;
 
 ✔ Derive actionable insights that improve decision-making
 
-
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/mohammadjunaidahmed/
+- GitHub Portfolio: https://github.com/Junaid30121997
+- Email: mohammedjunaid689@gmail.com
